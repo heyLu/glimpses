@@ -1,13 +1,5 @@
 # 0: My corner of the internet
 
-To be fair, corner isn't quite right as a description, but it'll do for now. As you will see, there are different names for this and I will suggest a few of those to you.
-
-Without further ado, welcome! (To my corner of the internet, also known as The Place of Many Names.)
-
-I like it when people collect things they care about, things they discover, giving a tiny glimpse into their life, what they're working on. It's human-scale idea exchange, but with a focus on being human and learning, at least for me.
-
-So, here are things that caught my attention in the last few days.
-
 * [Trouble at the Koolaid Point](http://seriouspony.com/trouble-at-the-koolaid-point)
 
     If you read anything linked here, let it be this.
