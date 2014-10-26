@@ -13,7 +13,9 @@ So, here are things that caught my attention in the last few days.
     If you read anything linked here, let it be this.
 * [Shia LaBeouf "Live"](https://www.youtube.com/watch?v=o0u4M6vppCI), by Rob Carton, via [waxy.org/links](http://waxy.org)
 
-    > Shia LaBeouf Live — Rob Cantor's classic track, with escalating insanity 
+    > Shia LaBeouf Live — Rob Cantor's classic track, with escalating insanity
+
+    (You can buy Rob Carton's music [on Bandcamp](http://robcantormusic.bandcamp.com) and probably elsewhere.)
 * [The hitchhiker's guide to solving problems](http://www.slashie.org/articles/the-hitchhikers-guide-to-solving-problems/)
 
     > The aspiration of education should be to teach students to think for themselves. A student should ultimately be a contributor, not just a consuming participant.
