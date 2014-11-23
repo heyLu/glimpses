@@ -20,6 +20,10 @@ pretty much all about conferences, but still a bit other stuff.
 
     basically, this will allow all kinds of fancy things, which Timothy has
     [summarized here](https://github.com/pixie-lang/pixie/tree/effects-integration/pixie/vm/effects#effects-system-for-pixie-prototype).
+* i've linked Julia Evan's [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+    below, but did you know that [you can also be an os developer](http://jvns.ca/blog/2013/11/26/day-34-the-tiniest-operating-system/)?
+
+    i've tried it, spent a few hours on it, and wrote [my own (tiny) os](https://github.com/heyLu/lp/tree/master/os).
 
 now, on to the conferencing.
 
@@ -38,7 +42,7 @@ now, on to the conferencing.
         oh, and i *loved* the slides.
     - [Rich Hickey - Inside Transducers](https://www.youtube.com/watch?v=4KqUvG8HPYo)
 
-        with more code. :)
+        with more code than the strangeloop talk. :)
 
         a more in-depth/non-introductory than the [StrangeLoop talk](https://www.youtube.com/watch?v=6mTbuzafcII),
         including a look at future features of core.async relating to transducers.
