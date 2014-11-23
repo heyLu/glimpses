@@ -14,7 +14,7 @@ pretty much all about conferences, but still a bit other stuff.
     try it out using `docker run -it --rm pixielang/pixie`. (or drop by in `#pixie-lang`
     on freenode and say something like `,(let [name "pixie"] (str "hello, " name "!"))`.)
 
-    Timothy Baldridge, the author of pixie is currently rewriting the runtime system
+    Timothy Baldridge, the author of pixie, is currently rewriting the runtime system
     using *effects*, which you can read about in [this paper](http://arxiv.org/pdf/1203.1539v1.pdf).
     (probably have a look at the examples on page 11 onwards first.) Brandom Bloom
     did [a presentation](http://www.mixcloud.com/paperswelove/bbloom_3_17_2014_programming_with_alegebraic_effectshandlers/)
