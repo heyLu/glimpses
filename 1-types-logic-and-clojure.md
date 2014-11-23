@@ -16,7 +16,9 @@ pretty much all about conferences, but still a bit other stuff.
 
     Timothy Baldridge, the author of pixie is currently rewriting the runtime system
     using *effects*, which you can read about in [this paper](http://arxiv.org/pdf/1203.1539v1.pdf).
-    (probably have a look at the examples on page 11 onwards first.)
+    (probably have a look at the examples on page 11 onwards first.) Brandom Bloom
+    did [a presentation](http://www.mixcloud.com/paperswelove/bbloom_3_17_2014_programming_with_alegebraic_effectshandlers/)
+    at Papers We Love about it, too.
 
     basically, this will allow all kinds of fancy things, which Timothy has
     [summarized here](https://github.com/pixie-lang/pixie/tree/effects-integration/pixie/vm/effects#effects-system-for-pixie-prototype).
