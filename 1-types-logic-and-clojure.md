@@ -26,6 +26,11 @@ pretty much all about conferences, but still a bit other stuff.
     below, but did you know that [you can also be an os developer](http://jvns.ca/blog/2013/11/26/day-34-the-tiniest-operating-system/)?
 
     i've tried it, spent a few hours on it, and wrote [my own (tiny) os](https://github.com/heyLu/lp/tree/master/os).
+* and while we're talking about low level things, creating ["Really Teensy ELF Executables"](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+    is both dark wizardry and fun.
+
+    somewhat strangely, the code for that doesn't look too different for that of my "os",
+    in a few places.
 * [Aqueous](http://aqueousband.com/) sounds fun
 
 now, on to the conferencing.
